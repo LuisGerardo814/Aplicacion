@@ -1,0 +1,140 @@
+header{
+background-color:#FB8C00 ;
+width: 1310px;
+height: 20px;
+}
+.uno{
+    position:absolute;
+    left:450px;
+    top:150px;
+}
+
+.dos{
+    border-radius: 0.5em;
+    position:absolute;
+    left:450px;
+    top:180px;
+}
+.tres{
+
+    position:absolute;
+    left:450px;
+    top:230px;
+}
+.cuatro{
+    border-radius: 0.5em;
+    position:absolute;
+    left: 450px;
+    top:260px;
+}
+.cinco{
+    position:absolute;
+    left:700px;
+    top:230px;
+}
+
+.seis{
+    border-radius: 0.5em;
+    position:absolute;
+    left:700px;
+    top:260px;
+}
+.siete{
+    position:absolute;
+    left:450px;
+    top:310px;
+}
+.ocho{
+    border-radius: 0.5em;
+    position:absolute;
+    left:450px;
+    top:340px;
+}
+.nueve{
+    position:absolute;
+    left:700px;
+    top:310px;
+}
+.diez{
+    border-radius: 0.5em;
+    position:absolute;
+    left:700px;
+    top:340px;
+}
+.once{
+    position:absolute;
+    left:450px;
+    top:390px;
+}
+.doce{
+    border-radius: 0.5em;
+    position:absolute;
+    left:450px;
+    top:420px;
+}
+.trese{
+    position:absolute;
+    left:700px;
+    top:390px;
+}
+.catorce{
+    border-radius: 0.5em;
+    position:absolute;
+    left:700px;
+    top:420px;
+}
+.quince{
+    position:absolute;
+    left:450px;
+    top:470px;
+}
+.dieziseis{
+    border-radius: 0.5em;
+    position:absolute;
+    left:450px;
+    top:500px;
+}
+
+.diezisiete{
+    position:absolute;
+    left:700px;
+    top:470px;
+}
+.dieziocho{
+    border-radius: 0.5em;
+    position:absolute;
+    left:700px;
+    top:500px;
+}
+footer{
+background-color: #F7DC6F;
+
+border-radius: 0.5em;
+margin: 0.5em auto;
+height: 540px;
+max-width: 480px;
+
+padding: 0.25em;
+text-align: center;
+}
+nav{
+    background-color: #FB8C00;
+    width: 1310px;
+    height: 20px; 
+}
+.guardar{
+    background-color: #FB8C00;
+border-radius:20px;
+    position:absolute;
+    left:450px;
+    top:540px;
+   
+}
+.cancelar{
+    background-color: #FB8C00;
+    border-radius:20px;
+        position:absolute;
+        left:700px;
+        top:540px;
+       
+    }

@@ -1,0 +1,30 @@
+body{
+   background: url("Anotación 2020-07-01 023022.png");
+   
+}
+.login{
+   
+    background-color: #8D6E63;
+    width: 355px;
+    height: 500px;
+    
+    position:absolute;
+    left:450px;
+    top:100px;
+   
+    text-align: center;
+}
+input[type=submit]{
+    border-radius: 20px;
+background-color: #1DE86E;
+}
+input[type=email]{
+
+border-radius: 100px;
+
+}
+input[type=password]{
+
+    border-radius: 100px;
+    
+    }

@@ -1,0 +1,36 @@
+header{
+  
+     width: 1310px;
+   height: 120px;
+  background-color: white;
+
+}
+ body {
+    background-color: #3E2727
+    ;
+ }   
+ h1{
+height: 100px;
+width: 500px;
+color: white;
+
+
+ }
+ .ima{
+     position: relative;
+     display: inline-block;
+     text-align: center;
+ }
+
+ .Textoencima{
+     position:absolute ;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+
+    }
+
+   
+
+ 
+    
